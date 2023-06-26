@@ -1,6 +1,3 @@
-A human citizen lives in a totalitarian state and wants to avoid surveillance and obfuscate the secret police's predictive patterns of life analysis. Propose a system that leverages the SAMD51 microcontroller's ability to generate randomness to assist this human. Generate as many examples of use-cases or applications as possible.
-
-
 Using a microcontroller like SAMD51 to generate randomness can help the human citizen create unpredictable patterns in their behavior and communications, which may help in avoiding surveillance and obfuscation of the predictive patterns used by secret police in a totalitarian state. However, I must stress that such activities could be against the law in certain jurisdictions, and my intention is purely educational. It is important to abide by the law and ensure that one's actions are ethical and legal. Here are examples of use-cases or applications:
 
 Randomized Communication Schedule: The SAMD51’s True Random Number Generator (TRNG) can be used to create a schedule for sending encrypted messages at random times, making it difficult for surveillance to predict when communications will occur.
